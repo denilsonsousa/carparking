@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/carparking/static/js/runtime~main.7b906c2c.js"
   },
   {
-    "revision": "ee4959cf8604c86be9a9",
-    "url": "/carparking/static/js/main.6914991f.chunk.js"
+    "revision": "56bc695666d7e0e2676e",
+    "url": "/carparking/static/js/main.6e35f93a.chunk.js"
   },
   {
     "revision": "1ee477d8d854130c8b32",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/carparking/static/css/2.eb79f348.chunk.css"
   },
   {
-    "revision": "8818cbdd0689557430aaae6adab7309c",
+    "revision": "6a3220b54ab39191b156bf865d75bec2",
     "url": "/carparking/index.html"
   }
 ];

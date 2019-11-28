@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/carparking/precache-manifest.4646c91449532ae1fabe9933772605c8.js"
+  "/carparking/precache-manifest.ce091bddfc1bc3aaf9a65e426b3170ca.js"
 );
 
 workbox.clientsClaim();
